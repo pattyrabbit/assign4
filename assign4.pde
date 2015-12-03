@@ -169,7 +169,7 @@ void draw() {
       x += speed;
     }
 
-    // boundary detection
+    
     if (x > 590) {
       x = 590;
     }
